@@ -8,7 +8,7 @@ meco-mvp is our early version of a platform focused on promoting mental well-bei
 
 ## Status
 
-This project is actively evolving. Follow our progress and learn more at the [meco repository](https://github.com/ABHAY-100/meco).
+This project is actively evolving. More details can be found at the [meco repository](https://github.com/ABHAY-100/meco).
 
 
 <br/>
